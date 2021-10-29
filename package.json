@@ -1,0 +1,21 @@
+{
+  "name": "@webbmaffian/rank",
+  "version": "1.0.0",
+  "description": "An alphanumerical rank, sort of like Jira's lexorank, but without the fuss.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webbmaffian/rank.git"
+  },
+  "author": "Ivar Johansson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webbmaffian/rank/issues"
+  },
+  "homepage": "https://github.com/webbmaffian/rank#readme",
+  "type": "module",
+  "types": "index.d.ts",
+  "dependencies": {
+    "nanoid": "^3.1.25"
+  }
+}
